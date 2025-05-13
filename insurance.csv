@@ -1,0 +1,6 @@
+policy_id,claim_amount,status
+1,1000,approved
+2,1500,pending
+3,2000,rejected
+4,1200,approved
+5,1700,pending

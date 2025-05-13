@@ -1,0 +1,6 @@
+shipment_id,destination,delayed
+1,NY,False
+2,LA,True
+3,TX,False
+4,WA,False
+5,FL,True
